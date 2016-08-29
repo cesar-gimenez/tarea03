@@ -7,6 +7,8 @@ OOCSS (Object-Oriented CSS) es la forma de escribir nuestro CSS para tener como 
 
 3. ¿Qué es Componet CSS?
 Se trata de un conjunto de consejos para escribir y organizar tu código basados en estos principios: Component-based, Modular and Isolated, Composable, Predictable, Documentation.
+Ejemplos:SMACSS, BEM, Sass, Compass.
 
 4. ¿Qué son preprocesadores CSS?
 Un preprocesador de CSS es una herramienta que nos permite escribir pseudo-código CSS que luego será convertido a CSS real. Ese pseudo-código se conforma de variables, condiciones, bucles o funciones. Podríamos decir que tenemos un lenguaje de programación que genera CSS.
+Los más populares son Less y Sass. Stylus también tiene bastante popularidad.
